@@ -22,16 +22,5 @@
       (Type "COrCapturePMDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -1 -1 0 638 0 491"))
-      (Tab 0))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 0 730 -1 -1 52 1350 52 582")
-        (Scroll "0 0")
-        (Zoom "100")
-        (Occurrence "/"))
-      (Path
-         "C:\USERS\SRIKA\DESKTOP\5TH SEM\LABS\ELECTRONIC MANUFACTURING AND PROTOTYPING\FPGA120\FPGA 120PINS.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "PAGE1")))
+      (Tab 0)))
   (PartMRUSelector))
